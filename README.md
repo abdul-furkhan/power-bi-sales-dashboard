@@ -31,6 +31,18 @@ It demonstrates the use of **Power BI features** such as visuals, slicers, filte
 
 ---
 
+## Project Screenshots
+
+| Screenshot | Description |
+|------------|-------------|
+| <img src="images/Shipment%20Analysis.png" width="500"/> | Shipment Analysis Dashboard |
+| <img src="images/Store%20Analysis.png" width="500"/>   | Store Performance Overview  |
+| <img src="images/dataset%20preview.png" width="500"/>  | Dataset Overview            |
+
+---
+https://github.com/abdul-furkhan/power-bi-sales-dashboard/blob/main/images/Store%20Analysis.png
+
+
 ## How to View
 
 1. Open `dashboard.pbix` in **Power BI Desktop**.  
@@ -41,4 +53,4 @@ It demonstrates the use of **Power BI features** such as visuals, slicers, filte
 
 ## Author
 
-**Abdul Furkhan** – Developed this dashboard independently to demonstrate skills in **data visualization, business intelligence, and Power BI report creation**.  
+**Abdul Furkhan** – Developed this dashboard independently to demonstrate skills in **data visualization, business intelligence, and Power BI report creation**.
