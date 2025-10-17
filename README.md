@@ -1,4 +1,4 @@
-# Power BI Superstore Sales Dashboard
+# US Superstore Business Intelligence Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue)
 
@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project contains a **Sales Dashboard created in Power BI** using the Superstore dataset (9995 rows). The dashboard provides **interactive visualizations, KPIs, and trend analysis** to help businesses monitor sales performance, revenue, and profitability across products, regions, and customer segments.  
+This project contains a **US Superstore Business Intelligence Dashboard** using the Superstore dataset (9995 rows). The dashboard provides **interactive visualizations, KPIs, and trend analysis** to help businesses monitor sales performance, revenue, and profitability across products, regions, and customer segments.  
 
 It demonstrates the use of **Power BI features** such as visuals, slicers, filters, and DAX measures to create actionable business insights.
 
